@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
+@media screen and (max-width: 425px) {
+    .container {
+        width: 310px;
+    }
+    #mobile-divider {
+        display: block;
+    }
+    #desktop-divider {
+        display: none;
+    }
+    .circle {
+        bottom: -30px;
+        right: 127px;
+    }
+}
